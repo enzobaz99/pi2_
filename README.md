@@ -40,7 +40,12 @@ reduccion de la tasa de mortalidad:
 
 DASHBOARD:
 
-Atravez de esto quiero que entiendan a que es lo que apunte con mi trabajo, para ello realice 
+Atravez de esto quiero que entiendan a que es lo que apunte con mi trabajo, para ello realice 3 paginas en power bi
+
+ * En la primera pagina es para visualizar la cantidad de accidentes, fallecidos y personas a bordo segun el tipo de vuelo o la aeronave que relizaba el vuelo
+ * En la segunda pagina les muestro la cantidad de fallecidos y los muertos en tierra. aparte de esto les muestro un mapa de donde salieron los vuelos
+ * En la tercera pagina les muestro la tasa de supervivencia de los pasajeros y de la tripulacion
+ * En la cuarta pagina les muestro la tasa de fatalidad de la ultima decada comparada con la de la decada anterior
 
 CONCLUSIÓN:
 
