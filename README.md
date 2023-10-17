@@ -23,7 +23,7 @@ para arreglar los datos realice estos pasos
   * revise si habia duplicados y los elimine utilizando .drop_duplicate
   * realice una matriz de correlacion con las columnas numericas
   * cree la columna año para poder trabajar la formula del kpi
-
+los pueden visualizar en [mi EDA](https://github.com/enzobaz99/pi2_/blob/main/EDA.ipynb)
 
 KPI:
 
