@@ -46,6 +46,7 @@ Atravez de esto quiero que entiendan a que es lo que apunte con mi trabajo, para
  * En la segunda pagina les muestro la cantidad de fallecidos y los muertos en tierra. aparte de esto les muestro un mapa de donde salieron los vuelos
  * En la tercera pagina les muestro la tasa de supervivencia de los pasajeros y de la tripulacion
  * En la cuarta pagina les muestro la tasa de fatalidad de la ultima decada comparada con la de la decada anterior
+ * En la quinta pagina hago una prediccion de lo que es posible que pase con la industria aerea
 
 CONCLUSIÓN:
 
